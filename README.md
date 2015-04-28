@@ -1,3 +1,4 @@
 # Wheel-of-Knowledge
 Intellectual game
-**Julia Semyonova, group 2381
+
+Julia Semyonova, group 2381
