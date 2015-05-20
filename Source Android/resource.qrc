@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>0.txt</file>
+        <file>1.txt</file>
+        <file>2.txt</file>
+        <file>3.txt</file>
+        <file>4.txt</file>
+        <file>5.txt</file>
+        <file>roulette.png</file>
+        <file>wheel_ru.qm</file>
+    </qresource>
+</RCC>
